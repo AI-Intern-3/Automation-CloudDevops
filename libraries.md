@@ -1,4 +1,3 @@
-Certainly! Here is a list of daily DevOps tasks along with the Python libraries needed for automation, their significance, and corresponding installation scripts.
 
 ### Daily DevOps Tasks and Python Libraries
 
