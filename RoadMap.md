@@ -1,5 +1,3 @@
-To create a DevOps automation course with Python, we can cover a wide range of topics and tasks commonly found in DevOps workflows. Here’s a suggested outline for the course, including key topics and practical projects to help you automate various DevOps tasks sequentially:
-
 ### Course Outline: Python for DevOps Automation
 
 #### 1. **Introduction to DevOps and Python**
